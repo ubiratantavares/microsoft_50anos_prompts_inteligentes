@@ -1,0 +1,2 @@
+# microsoft_50anos_prompts_inteligentes
+microsoft_50anos_prompts_inteligentes
